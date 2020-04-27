@@ -1,0 +1,19 @@
+.img-100 img {
+    max-width: 100%;
+}
+
+.accordion {
+
+}
+
+.accordion .card {
+    border-radius: .25rem !important;
+    margin-bottom: .5rem;
+}
+
+.accordion .card .card-header {
+
+}
+.accordion .card .card-header.collapsed {
+    border-radius: .25rem;
+}
