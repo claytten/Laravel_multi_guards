@@ -18,7 +18,7 @@
  * `Insert Identity Database`
  
 ![database](https://user-images.githubusercontent.com/38114768/80372466-c72c7f00-88bd-11ea-98b9-563d30d09b80.png)
- * `modify Mail`
+ * `modify Mail (if u not using gmail for sending verification, change on host and port)` 
  
 ![mail](https://user-images.githubusercontent.com/38114768/80372494-cdbaf680-88bd-11ea-8e0b-57bc2fe0192f.png)
  ```bash
@@ -75,6 +75,8 @@
 ![account_setting_user](https://user-images.githubusercontent.com/38114768/80372425-b5e37280-88bd-11ea-91f3-012f98e47843.png)
 ### Dashboard Admin
 ![dashboard_admin](https://user-images.githubusercontent.com/38114768/80372449-bed44400-88bd-11ea-8ead-e3d48462ec97.png)
+### Email Verification (Gmail)
+![email](https://user-images.githubusercontent.com/38114768/80373297-0b6c4f00-88bf-11ea-99c2-0b8d4ca86a4b.png)
 
 # Author
 
