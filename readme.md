@@ -16,7 +16,11 @@
 ## Setup
  * `duplicate .env-example and rename to .env`
  * `Insert Identity Database`
+ 
+![database](https://user-images.githubusercontent.com/38114768/80372466-c72c7f00-88bd-11ea-98b9-563d30d09b80.png)
  * `modify Mail`
+ 
+![mail](https://user-images.githubusercontent.com/38114768/80372494-cdbaf680-88bd-11ea-8e0b-57bc2fe0192f.png)
  ```bash
  $ composer install
  ```
@@ -61,6 +65,16 @@
  * `user / 127.0.0.1:8000/login`
 
 ## Screenshoot
+### Homepage user
+![dasbhoard_user_2](https://user-images.githubusercontent.com/38114768/80372237-69983280-88bd-11ea-8b4b-c8fab60131c0.png)
+### Login User
+![login_user](https://user-images.githubusercontent.com/38114768/80372375-a5cb9300-88bd-11ea-8fce-2452b4c77d47.png)
+### Register User
+![register](https://user-images.githubusercontent.com/38114768/80372408-ad8b3780-88bd-11ea-8e25-518ddd5a8f5d.png)
+### Account Setting user
+![account_setting_user](https://user-images.githubusercontent.com/38114768/80372425-b5e37280-88bd-11ea-91f3-012f98e47843.png)
+### Dashboard Admin
+![dashboard_admin](https://user-images.githubusercontent.com/38114768/80372449-bed44400-88bd-11ea-8ead-e3d48462ec97.png)
 
 # Author
 
